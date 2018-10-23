@@ -11,6 +11,6 @@ Applications written by me during my study time in SoftUni:
   - JavaScript Fundamentals
   - JavaScript Applications (Handlebars,Jquery,SammyJS)
   
--PHP Web Development
- -PHP and SQL basics.
+- PHP Web Development
+ - PHP and SQL basics.
  -
