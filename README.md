@@ -14,4 +14,4 @@ Applications written by me during my study time in SoftUni:
   
  - PHP Web Development
    - PHP and SQL basics.
-   -
+
